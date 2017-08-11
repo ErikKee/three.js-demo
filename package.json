@@ -1,0 +1,18 @@
+{
+  "name": "glsl-demo",
+  "version": "1.0.0",
+  "description": "OpenGL Shading Language Demo: RUN",
+  "scripts": {
+      "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikKee/three.js-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/ErikKee/three.js-demo#readme",
+  "dependencies": {
+	   "express": "4.13.3"
+  }
+}
